@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  French
+
+  Created by dovietduy on 11/26/20.
+  
+*/
+"What do you want to learn today?" = "Hôm nay bạn muốn học gì nào?";
+"Choose your topic" = "Chọn chủ đề của bạn";
+"Happy Learning" = "Học vui vẻ nhé";
+"Alphabet" = "Bảng chữ cái";
+"Search" = "Tìm kiếm"; // placeholder
+"Learning sets" = "Bài học";
+"Copied to clipboard" = "Đã sao chép";
+"Copy" = "Sao chép";
+"Share" = "Chia sẻ";
+"More Actions" = "...";
+"Cancel" = "Huỷ";
+"Practive Now" = "Luyện tập";
+"Audio Quiz" = "Kiểm tra nghe";
+"Text Quiz" = "Kiểm tra từ";
+"Congratulations" = "Chúc mừng";
+"Thank for participating the game" = "Cảm ơn bạn đã làm bài kiểm tra";
+"OK" = "Đồng ý";
+"Choose the correct answer" = "Chọn câu trả lời đúng";
+"Downloaded" = "Tải xuống";
+"files" = "tập tin";
+
+// slide menu
+"Home" = "Trang chủ";
+"Vocabulary" = "Từ vựng";
+"Favorite" = "Yêu thích";
+"Translate" = "Dịch từ";
+"Settings" = "Cài đặt";
+
+// setting menu
+"Language" = "Ngôn ngữ";
+"Download vocabulary" = "Tải từ vựng về điện thoại";
+"Delete all recordings" = "Xoá bản ghi âm";
+"Send feedback" = "Phản hồi";
+"Share app" = "Chia sẻ ứng dụng";
+"Rate_this_app" = "Đánh giá";
+"About app" = "Thông tin";
